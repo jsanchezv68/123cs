@@ -1,0 +1,51 @@
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.exe
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.deps.json
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.runtimeconfig.json
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.dll
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.pdb
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.csproj.AssemblyReference.cache
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\Calculadora_Examen.Calculadora.resources
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.csproj.GenerateResource.cache
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.AssemblyInfoInputs.cache
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.AssemblyInfo.cs
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.csproj.CoreCompileInputs.cache
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.dll
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\refint\CalculadoraExamen.dll
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.pdb
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.genruntimeconfig.cache
+C:\Users\GAMING GIGABYTE\source\repos\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\ref\CalculadoraExamen.dll
+E:\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.exe
+E:\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.deps.json
+E:\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.runtimeconfig.json
+E:\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.dll
+E:\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.pdb
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.csproj.AssemblyReference.cache
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\Calculadora_Examen.Calculadora.resources
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.csproj.GenerateResource.cache
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.GeneratedMSBuildEditorConfig.editorconfig
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.AssemblyInfoInputs.cache
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.AssemblyInfo.cs
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.csproj.CoreCompileInputs.cache
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.dll
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\refint\CalculadoraExamen.dll
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.pdb
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.genruntimeconfig.cache
+E:\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\ref\CalculadoraExamen.dll
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.exe
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.deps.json
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.runtimeconfig.json
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.dll
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\ref\CalculadoraExamen.dll
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\bin\Debug\net6.0-windows\CalculadoraExamen.pdb
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\Calculadora_Examen.Calculadora.resources
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.AssemblyInfo.cs
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.dll
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\ref\CalculadoraExamen.dll
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.pdb
+C:\Users\alumno\Desktop\EXAMEN\CalculadoraExamen\Calculadora_Examen\obj\Debug\net6.0-windows\CalculadoraExamen.genruntimeconfig.cache
